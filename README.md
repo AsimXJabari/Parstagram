@@ -25,9 +25,9 @@ Here's a walkthrough of implemented user stories:
 
 ## User sees app icon in home screen and styled launch screen.
 ## User can sign up to create a new account.
-<a href="https://imgflip.com/embed/3r50zt"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
+<a href="https://imgflip.com/gif/3r50zt"><img src="https://imgflip.com/embed/3r50zt" title="login"/></a>
 
 ## User can log in.
 ## User can take a photo, add a caption, and post it to the server.
-<a href="https://imgflip.com/embed/3r51wf"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
-<a href="hhttps://imgflip.com/embed/3r51tm"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
+<a href="https://imgflip.com/gif/3r51wf"><img src="https://imgflip.com/embed/3r51wf" title="login"/></a>
+<a href="hhttps://imgflip.com/gif/3r51tm"><img src="https://imgflip.com/embed/3r51tm" title="login"/></a>
