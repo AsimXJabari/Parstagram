@@ -25,9 +25,9 @@ Here's a walkthrough of implemented user stories:
 
 ## User sees app icon in home screen and styled launch screen.
 ## User can sign up to create a new account.
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:198.85%;position:relative;"><iframe width="260" height="517" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3r50zt"></iframe></div><p><a href="https://imgflip.com/gif/3r50zt">via Imgflip</a></p></div>
+<a href="https://imgflip.com/embed/3r50zt"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
 
 ## User can log in.
 ## User can take a photo, add a caption, and post it to the server.
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:198.85%;position:relative;"><iframe width="260" height="517" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3r51wf"></iframe></div><p><a href="https://imgflip.com/gif/3r51wf">via Imgflip</a></p></div>
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:198.85%;position:relative;"><iframe width="260" height="517" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3r51tm"></iframe></div><p><a href="https://imgflip.com/gif/3r51tm">via Imgflip</a></p></div>
+<a href="https://imgflip.com/embed/3r51wf"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
+<a href="hhttps://imgflip.com/embed/3r51tm"><img src="https://i.imgflip.com/3piiu7.gif" title="login"/></a>
